@@ -39,6 +39,12 @@
     <label for="outdoor">
       <input id="outdoor" type="radio" name="indoor-outdoor"> Outdoor 
     </label>
+   
+   
+    <label for="black"> <input type="checkbox"  id="black" name="black-white-gray"> Black </label>
+    <label for="white"> <input type="checkbox"  id="white" name="black-white-gray"> White </label>
+    <label for="gray"> <input type="checkbox"  id="gray" name="black-white-gray"> Gray </label>
+    
   </form>
 
 
